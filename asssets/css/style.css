@@ -1,0 +1,15 @@
+.hero-section {
+    height: 400px;
+    background-image: url('../img/clint-patterson-dYEuFB8KQJk-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-me {
+    height: 300px;
+    width: 250px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+

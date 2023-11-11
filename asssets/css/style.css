@@ -37,3 +37,9 @@
 .carusel-img:hover {
     filter: none;
 } */
+
+/* Tamaño iconos footer  */
+
+.iconosFooter {
+    font-size: 18px;
+}
